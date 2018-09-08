@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pizza Order UI - Input Controls</string>
+    <string name="flavor1">Hawaian</string>
+    <string name="flavor2">Peperoni</string>
+    <string name="flavor3">Meat Lovers</string>
+    <string name="flavor4">Stuffed Crust</string>
+    <string name="addOn1">Pineapple</string>
+    <string name="addOn2">Sausage Bits</string>
+    <string name="addOn3">Bacon</string>
+    <string name="addOn4">Peperoni</string>
+    <string name="addOn5">Mozarella</string>
+    <string name="addOn6">Onions</string>
+    <string name="addOn7">Ham</string>
+
+</resources>
